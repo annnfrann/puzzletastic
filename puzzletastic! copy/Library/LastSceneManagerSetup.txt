@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/annaScenes/second level.unity
+  isLoaded: 1
+  isActive: 1

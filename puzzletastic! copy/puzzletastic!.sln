@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{08559634-6262-FBE1-64C2-2CC99413A8FA}") = "puzzletastic!", "Assembly-CSharp.csproj", "{0B09DDA1-2E56-8514-7E7B-D43EC3E1CD34}"
+EndProject
+Project("{08559634-6262-FBE1-64C2-2CC99413A8FA}") = "puzzletastic!", "Assembly-CSharp-Editor.csproj", "{E6481F8E-83DD-EB44-B2E1-585844F2D974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B09DDA1-2E56-8514-7E7B-D43EC3E1CD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B09DDA1-2E56-8514-7E7B-D43EC3E1CD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B09DDA1-2E56-8514-7E7B-D43EC3E1CD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B09DDA1-2E56-8514-7E7B-D43EC3E1CD34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6481F8E-83DD-EB44-B2E1-585844F2D974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6481F8E-83DD-EB44-B2E1-585844F2D974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6481F8E-83DD-EB44-B2E1-585844F2D974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6481F8E-83DD-EB44-B2E1-585844F2D974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
